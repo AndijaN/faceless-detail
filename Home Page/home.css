@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+    background-color: rgb(255, 166, 236);
+    }
+    
+      a {
+      height: 100%;
+      margin: 0px;
+      font-family: times new roman;
+      color: black;
+      display: inline;
+      justify-items: left;
+      align-items: left;
+      background-color: rgb(255, 68, 215);
+      }
+    
+      h1{
+      height: 60%;
+      margin: 0px;
+      font-family: times new roman;
+      color: black;
+      display: grid;
+      justify-items: left;
+      align-items: left;
+      background-color: rgb(255, 166, 236);
+      }
+      
+      h2{
+      height: 20%;
+      margin: 0px;
+      font-family: times new roman;
+      color: black;
+      display: grid;
+      justify-items: left;
+      align-items: left;
+      background-color: rgb(255, 166, 236);
+      }
+  
+    
+   
